@@ -1,4 +1,4 @@
-## BLACKEYE v1.0
+## BLACKEYE v1.1
 ### Coded by: @thelinuxchoice (https://github.com/thelinuxchoice/blackeye)
 ### Upgraded by: @suljot_gjoka (https://github.com/whiteeagle0/blackeye)
 
