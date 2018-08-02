@@ -13,7 +13,7 @@ PayPal,eBay,CryptoCurrency,Verizon,Drop Box,Adobe ID,Shopify,Messenger,TwitchMys
 ![be](https://user-images.githubusercontent.com/34893261/43515905-332cf580-955a-11e8-9447-d32d0f8975c4.png)
 
 #### Description
-BLACKEYE is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE. It is the most complete Phishing Tool,  with 32 templates +1 customizable. WARNING: IT ONLY WORKS ON LAN!
+BLACKEYE is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE. It is the most complete Phishing Tool,  with 32 templates +1 customizable. WARNING: IT ONLY WORKS ON LAN! This tool was made for educational purposes!
 
 ## Legal disclaimer:
 Usage of BlackEye for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
